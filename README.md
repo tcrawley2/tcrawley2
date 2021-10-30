@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tcrawley2. A professional athlete turned CS graduate student.
+- 👀 I’m interested in anything and everything CS and programming related.
+- 🌱 I’m currently learning python, but excited to learn more.
+- 💞️ I’m looking to collaborate on ...future projects and code. Open to any ideas!
+- 📫 How to reach me: tim.crawley12@gmail.com
